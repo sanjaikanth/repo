@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 462A-8F87
+
+ Directory of C:\Users\sanjai\Desktop\myproject
+
+10/17/2017  10:21 AM    <DIR>          .
+10/17/2017  10:21 AM    <DIR>          ..
+10/17/2017  10:21 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  780,604,743,680 bytes free
